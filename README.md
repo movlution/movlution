@@ -104,17 +104,6 @@
 
 ---
 
-<!-- Achievements -->
-<div align="center">
-  <h2>🏆 Achievements</h2>
-  
-  ![GitHub followers](https://img.shields.io/github/followers/movlution?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/movlution?style=social)
-  
-</div>
-
----
-
 <div align="center">
   <p><i>Last updated: 2026-06-16</i></p>
   <p>✨ <strong>Feel free to reach out - I'm always excited to collaborate on new game development projects!</strong> ✨</p>
