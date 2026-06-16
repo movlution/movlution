@@ -4,82 +4,121 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Faris</h1></summary>
+    <summary><h1>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif" width="35px"> 
+      Hi, I'm Faris
+    </h1></summary>
   </ul>
 </div>
+
+<h3 align="center">🎮 Game Developer | 🚀 Unity Enthusiast | 💡 Creative Coder</h3>
+
+---
 
 <!--Intro start-->
-- 👀 I'm interested in Game Programming
-
-- 🌱 I'm currently learning programming unity
-
-- 💞️ I'm looking to collaborate on Game Developement
-
-- 📫 Feel free to reach me out **movlution@gmail.com**
-
-- 🏠 Also i have a GameDev community called [Basement](https://discord.gg/zreAsusu25).
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=movlution&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=movlution&theme=dark&hide_border=false" />
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=movlution&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/movlution/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=movlution&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/farismiqdad/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" /></a>
-<a href="https://discord.gg/zreAsusu25" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" /></a>
-  
-</p>
-
-
-<!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=movlution&icon=3&color=6)](https://visitcount.itsvg.in)
+### About Me
   
+```
+🎯 Game Programming Enthusiast
+⚡ Currently mastering Unity Engine
+🤝 Seeking Game Development Collaborations
+📧 movlution@gmail.com
+🏘️  Founder of Basement GameDev Community
+```
+
+</div>
+<!--Intro end-->
+
+---
+
+<!-- Tech Stack -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+
+---
+
+<!-- Stats Section -->
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+</div>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=movlution&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF10F0&icon_color=00D9FF&text_color=E0E0E0" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=movlution&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF10F0&text_color=E0E0E0" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=movlution&theme=radical&hide_border=true&background=0d1117&stroke=FF10F0&ring=00D9FF" alt="GitHub Streak" width="100%" />
+</p>
+
+<!-- Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=movlution&theme=radical&row=2&column=3&margin-h=20&margin-w=5&no-bg=true" alt="Trophy" />
+</div>
+
+---
+
+<!-- Community & Projects -->
+<div align="center">
+  <h2>🎮 My Community</h2>
+  
+  ### Basement GameDev Community
+  *A thriving community for game developers to collaborate, learn, and create together*
+  
+  [![Join Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zreAsusu25)
+  
+</div>
+
+---
+
+<!-- Connect with me -->
+<div align="center">
+  <h2>🤝 Connect With Me</h2>
+  
+  <a href="https://www.linkedin.com/in/farismiqdad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:movlution@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/zreAsusu25" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/movlution" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=movlution&icon=3&color=6" alt="Visitor Count" />
+  
+  <p><i>Last updated: 2026-06-16</i></p>
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+<div align="center">
+  <p>✨ <strong>Feel free to reach out - I'm always excited to collaborate on new game development projects!</strong> ✨</p>
+</div>
