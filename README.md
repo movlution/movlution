@@ -69,11 +69,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=movlution&theme=radical&hide_border=true&background=0d1117&stroke=FF10F0&ring=00D9FF" alt="GitHub Streak" width="100%" />
 </p>
 
-<!-- Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=movlution&theme=radical&row=2&column=3&margin-h=20&margin-w=5&no-bg=true" alt="Trophy" />
-</div>
-
 ---
 
 <!-- Community & Projects -->
@@ -109,16 +104,21 @@
 
 ---
 
-<!-- Profile Views Counter -->
+<!-- Achievements -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=movlution&icon=3&color=6" alt="Visitor Count" />
+  <h2>🏆 Achievements</h2>
   
+  ![GitHub followers](https://img.shields.io/github/followers/movlution?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/movlution?style=social)
+  
+</div>
+
+---
+
+<div align="center">
   <p><i>Last updated: 2026-06-16</i></p>
+  <p>✨ <strong>Feel free to reach out - I'm always excited to collaborate on new game development projects!</strong> ✨</p>
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <p>✨ <strong>Feel free to reach out - I'm always excited to collaborate on new game development projects!</strong> ✨</p>
-</div>
